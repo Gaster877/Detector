@@ -1,6 +1,6 @@
 ## ! 須知
 ### 使用模型
-目前使用[kgmann/ai-image-det-resnet18](https://huggingface.co/kgmann/ai-image-det-resnet18)的模型作為判斷模型
+目前使用[kgmann/ai-image-det-resnet18](https://huggingface.co/kgmann/ai-image-det-resnet18/tree/main)的模型作為判斷模型
 
 ### Dataset download link
 Download the dataset from this link, will keep updating
