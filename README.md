@@ -3,7 +3,7 @@
 目前使用[kgmann/ai-image-det-resnet18](https://huggingface.co/kgmann/ai-image-det-resnet18/tree/main)的模型作為判斷模型
 
 ### Dataset download link
-*圖片資源大小皆為128x128，目前使用的Resnet18模型圖像輸入為224x224，並且做為測試用先取較小的當案大小，所以取128x128大小*
+*圖片資源大小皆為128x128，目前使用的Resnet18模型圖像輸入為224x224，並且做為測試用先取較小的檔案大小，所以取128x128大小*
 
 AI生成人像([OneMillionFaces](https://huggingface.co/datasets/RichardErkhov/OneMillionFaces?utm_source=chatgpt.com)):
 用以訓練的AI人像資源來自OneMilionFaces的前100k筆資源，目前取其中的10k-20k作為測試
