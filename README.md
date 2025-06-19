@@ -11,7 +11,7 @@ AI生成人像([OneMillionFaces](https://huggingface.co/datasets/RichardErkhov/O
 用以訓練的AI人像資源來自FFHQ的70k筆資源，目前取其中的10k-20k作為測試
 ![image](https://github.com/user-attachments/assets/ea69a28e-fc3d-48bc-a5d9-b7ef52477007)
 
-### 自主訓練模型
+### 自主訓練模型(此處尚未使用上述資源訓練)
 目前的模型準確率較低，需多加訓練
 可直接載入使用
 [Link here](https://drive.google.com/drive/folders/1zkMcR0KKC4zdEq2hsj-f0PU3iBL719eK?usp=sharing)
